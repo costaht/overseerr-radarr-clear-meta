@@ -9,3 +9,6 @@ First it will search on Radarr db for titles with the following caracteristics:
 And then it will clean the metadata of those titles from Overseerr.
 
 **Don't forget to add your Cookie**
+
+Known issue:
+The second time your run the script you're gonna get an error because the title still exist on Radarr, but not on Overseerr.
