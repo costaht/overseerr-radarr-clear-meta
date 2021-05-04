@@ -10,6 +10,5 @@ And then it will remove the metadata of those titles from Overseerr.
 
 **Don't forget to add your Cookie**
 
-**Known issue:**
-
+### Known issue:
 The second time your run the script you're gonna get an error because the title still exist on Radarr, but not on Overseerr.
