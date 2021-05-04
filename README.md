@@ -6,7 +6,7 @@ First it will search on Radarr db for titles with the following caracteristics:
 * Monitoring Status: False
 * MovieFileId: 0 (doesn't exist)
 
-And then it will clean the metadata of those titles from Overseerr.
+And then it will remove the metadata of those titles from Overseerr.
 
 **Don't forget to add your Cookie**
 
