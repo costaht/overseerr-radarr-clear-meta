@@ -1,6 +1,6 @@
 #!/bin/bash
 
-radarr_db=/home/habner/.config/Radarr/radarr.db
+radarr_db=/home/costaht/.config/Radarr/radarr.db
 overseerr_db=/root/snap/overseerr/common/db/db.sqlite3
 
 echo 
